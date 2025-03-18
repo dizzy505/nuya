@@ -11,7 +11,7 @@ export const About = () => {
     {
       icon: Clock,
       title: 'Jam Fleksibel',
-      description: 'Buka dari pagi hingga sore untuk memenuhi kebutuhan orang tua yang bekerja.',
+      description: 'Kami buka dari pagi hingga sore, menyediakan tempat yang aman dan nyaman bagi anak untuk belajar dan berkembang.',
     },
     {
       icon: Sparkles,
